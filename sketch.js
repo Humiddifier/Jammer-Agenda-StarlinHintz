@@ -1,3 +1,5 @@
+//credit to Adam Hintz for Flood photograph!
+
 //functionality
 let counter = 0;
 
